@@ -5,7 +5,7 @@
 ### Game
 
 ### Link:
-https://www.youtube.com/watch?v=XZZJaYRCx7w
+https://youtu.be/XZZJaYRCx7w
 
 ### Tecnologias Utilizadas
 <ul>
